@@ -3,7 +3,7 @@
 -include device/semc/zeus-common/BoardConfigCommon.mk
 
 # Bluetooth
-BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/semc/zeus/config
+BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/semc/zeus/bluetooth
 
 # kernel
 TARGET_KERNEL_SOURCE := kernel/semc/msm7x30
